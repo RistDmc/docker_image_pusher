@@ -1,5 +1,5 @@
 linuxserver/qbittorrent:latest
 jeessy/ddns-go:latest
-xhofe/alist:latest
 portainer/portainer-ce
 jc21/nginx-proxy-manager:latest
+xiaoyaliu/alist:hostmode
