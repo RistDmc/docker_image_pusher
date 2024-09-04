@@ -5,3 +5,4 @@ jc21/nginx-proxy-manager:latest
 xiaoyaliu/alist:hostmode
 plexinc/pms-docker
 linuxserver/plex:latest
+geekotaku/xiaoyahelper:latest
